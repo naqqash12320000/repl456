@@ -73,4 +73,4 @@ async def add(ctx):
     await ctx.send("Added {}".format(key))
 
 
-client.run("OTQxMzgzNjY0MDYxODA0NjI0.YgVJ2w.9lIQmcYUlrSLycW5hV7tTVSeHMc")
+client.run("")
